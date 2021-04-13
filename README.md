@@ -21,7 +21,7 @@ Repl: [![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicB
 Heroku: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SudhanPlayz/Discord-MusicBot)
 ## ✨ Contributors
 Contributions are always welcomed :D
-<a href="https://github.com/SudhanPlayz/Discord-MusicBot/graphs/contributors">
+<a href="https://github.com/SudhaSudh/contributors">
   <img src="https://contributors-img.web.app/image?repo=SudhanPlayz/Discord-MusicBot" />
 </a>
 
